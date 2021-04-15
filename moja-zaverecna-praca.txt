@@ -1,1 +1,4 @@
-nazov mojej zaverecnej prace, alebo co ma napadne
+nazov mojej zaverecnej prace
+
+Anotacia:
+-
